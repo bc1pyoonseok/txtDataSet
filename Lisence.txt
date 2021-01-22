@@ -1,0 +1,9 @@
+arxiv-abstracts:          CC0: Public Domain
+fairy_tail:               CC0: Public Domain
+PopSongLyrics:            CC0: Public Domain
+BBCFullTexttDocument:     Database: Open Database, Contents: Database Contents
+hiphopLyrics:             CC0: Public Domain
+cord19Article:            CC BY-SA 4.0
+encyclopedia:             CC BY-SA 3.0
+poet:                     CC0: Public Domain
+
