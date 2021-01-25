@@ -7,3 +7,4 @@ cord19Article:            CC BY-SA 4.0
 encyclopedia:             CC BY-SA 3.0
 poet:                     CC0: Public Domain
 sherlock:                 CC0: Public Domain
+philosophical:            CC0: Public Domain
